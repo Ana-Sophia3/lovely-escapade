@@ -1,4 +1,7 @@
 ---
-title: Welcome to my blog
+title: Ana Sophia Lozano
 ---
+I am currently working toward the Google Data Analytics Certificate, where I am developing proficiency in SQL, data visualization, and problem-solving using tools like spreadsheets and Python. My passion for data analytics stems from a deep curiosity about patterns, trends, and the insights that drive decision-making. Through my training, I am learning how to clean and analyze data effectively, build compelling visualizations, and translate complex information into meaningful business solutions.
+With a background in customer service, healthcare, and retail, I bring a strong foundation in troubleshooting, critical thinking, and clear communication. As a Medical Technician, I managed and documented patient data with precision, reinforcing my attention to detail—an essential skill in data analysis. In my role as a Server, I balanced multiple priorities under pressure, anticipating customer needs and optimizing workflow efficiency. Additionally, my experience in customer service required me to explain complex information in an accessible way, a skill that is invaluable when presenting data-driven insights to stakeholders.
+I thrive in environments that require analytical thinking, problem-solving, and collaboration. As I transition into a career in data analytics, I am eager to apply my technical training and diverse professional experience to help organizations leverage data for smarter decision-making. My goal is to bridge the gap between data and strategy, turning raw information into actionable insights that drive business success.
 
